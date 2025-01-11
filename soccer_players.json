@@ -1,0 +1,169 @@
+{
+    "Players": [
+        {
+            "name": "ברקו",
+            "position": "defender",
+            "score": 4
+        },
+        {
+            "name": "שירן",
+            "position": "defender",
+            "score": 4
+        },
+        {
+            "name": "דניאל",
+            "position": "defender",
+            "score": 4
+        },
+        {
+            "name": "מאור",
+            "position": "defender",
+            "score": 3
+        },
+        {
+            "name": "דביר",
+            "position": "defender",
+            "score": 3.5
+        },
+        {
+            "name": "עמנואל",
+            "position": "defender",
+            "score": 4.5
+        },
+        {
+            "name": "גיל",
+            "position": "defender",
+            "score": 4.5
+        },
+        {
+            "name": "שבי",
+            "position": "defender",
+            "score": 3.5
+        },
+        {
+            "name": "דרור",
+            "position": "defender",
+            "score": 3.5
+        },
+        {
+            "name": "מנור",
+            "position": "defender",
+            "score": 4
+        },
+        {
+            "name": "ג׳רסי",
+            "position": "defender",
+            "score": 3.5
+        },
+        {
+            "name": "רן בנימין",
+            "position": "defender",
+            "score": 3.5
+        },
+        {
+            "name": "סיסו",
+            "position": "defender",
+            "score": 3.5
+        },
+        {
+            "name": "ארז",
+            "position": "attacker",
+            "score": 4
+        },
+        {
+            "name": "אביר",
+            "position": "attacker",
+            "score": 4.5
+        },
+        {
+            "name": "אמיר אשכנזי",
+            "position": "attacker",
+            "score": 4
+        },
+        {
+            "name": "חכמון",
+            "position": "attacker",
+            "score": 4.5
+        },
+        {
+            "name": "עבד",
+            "position": "attacker",
+            "score": 4
+        },
+        {
+            "name": "בר",
+            "position": "attacker",
+            "score": 4.5
+        },
+        {
+            "name": "אופיר כהן",
+            "position": "attacker",
+            "score": 3.5
+        },
+        {
+            "name": "חג׳ג׳",
+            "position": "attacker",
+            "score": 3
+        },
+        {
+            "name": "ג׳הסי",
+            "position": "attacker",
+            "score": 4
+        },
+        {
+            "name": "אורי מויאל",
+            "position": "attacker",
+            "score": 4.5
+        },
+        {
+            "name": "עשי",
+            "position": "attacker",
+            "score": 5
+        },
+        {
+            "name": "קריספין",
+            "position": "attacker",
+            "score": 4.5
+        },
+        {
+            "name": "זך",
+            "position": "stricker",
+            "score": 4.5
+        },
+        {
+            "name": "סטס",
+            "position": "stricker",
+            "score": 4
+        },
+        {
+            "name": "אוהד פרץ",
+            "position": "stricker",
+            "score": 4
+        },
+        {
+            "name": "לירן",
+            "position": "stricker",
+            "score": 4
+        },
+        {
+            "name": "פלוטקין",
+            "position": "stricker",
+            "score": 4.5
+        },
+        {
+            "name": "רן קרלינג",
+            "position": "keeper",
+            "score": 5
+        },
+        {
+            "name": "אוהד כהן",
+            "position": "keeper",
+            "score": 4
+        },
+        {
+            "name": "יוסי",
+            "position": "keeper",
+            "score": 3.5
+        }
+    ]
+}
