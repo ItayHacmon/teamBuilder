@@ -1,7 +1,6 @@
 from tkinter import Tk, Toplevel, Label, Button
 from player_selector import PlayerSelectionApp
 from ui_logic import TeamBuilderUI
-import os
 import json
 
 input_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Itay/TeamBuilder/soccer_players.json'
