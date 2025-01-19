@@ -1,31 +1,32 @@
 Team 1:
-  לירן (Score: 4)
-  קריספין (Score: 4.5)
-  בר (Score: 4.5)
-  פלוטקין (Score: 4.5)
+  פלטוקין (Score: 4.5)
   חכמון (Score: 4.5)
-  ג׳רסי (Score: 3.5)
-  דרור (Score: 3.5)
-  Total Score: 29.0
+  ניר אילני (Score: 3)
+  רן קרלין (Score: 4.5)
+  רן מרדכי (Score: 4.0)
+  דביר (Score: 3.5)
+  מאור (Score: 3)
+  ג׳הסי (Score: 4)
+  Total Score: 31.0
 
 Team 2:
-  דביר (Score: 3.5)
-  אופיר כהן (Score: 3.5)
+  ברקו (Score: 4.0)
+  אודי (Score: 4)
+  שירן (Score: 4)
   דניאל (Score: 4)
-  אמיר אשכנזי (Score: 4)
-  זך (Score: 4.5)
-  עשי (Score: 5)
   מנור (Score: 4)
-  Total Score: 28.5
+  אמיר אשכנזי (Score: 4.0)
+  חג׳ג׳ (Score: 3)
+  בר (Score: 4.5)
+  Total Score: 31.5
 
 Team 3:
-  יוסי  - שוער (Score: 3.5)
-  רן בנימין (Score: 3.5)
-  חג׳ג׳ (Score: 3)
-  שירן (Score: 4)
-  ג׳הסי (Score: 4)
+  לירן (Score: 4)
+  דרור (Score: 3.5)
   סטס (Score: 4)
-  רן קרלינג (Score: 5)
-  מאור (Score: 3)
-  Total Score: 30.0
+  אופיר כהן (Score: 3.5)
+  עמנואל (Score: 4.5)
+  אורי מויאל (Score: 4.5)
+  עשי (Score: 5)
+  Total Score: 29.0
 

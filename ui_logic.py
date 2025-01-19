@@ -3,7 +3,6 @@ from team_logic import create_balanced_teams_with_constraints, print_teams_to_fi
 import threading
 import random
 
-
 class TeamBuilderUI:
     def __init__(self, root, players):
         self.root = root
@@ -33,13 +32,17 @@ class TeamBuilderUI:
         self.teams_text = tk.Text(self.root, height=15, width=60, borderwidth=2, relief="solid")
         self.teams_text.pack(pady=10)
 
+        # Button to save teams (initially hidden)
+        self.save_teams_button = tk.Button(self.root, text="Save Teams", command=self.save_teams)
+        self.save_teams_button.pack(pady=10)
+        self.save_teams_button.pack_forget()
+
     def create_and_display_teams(self):
         try:
             self.teams = create_balanced_teams_with_constraints(self.players)
             self.update_display()
-            file_path = 'teams.txt'
-            print_teams_to_file(self.teams, file_path)
             self.regenerate_button.pack()  # Show regenerate button
+            self.save_teams_button.pack()  # Show save teams button
         except ValueError as e:
             self.teams_text.delete(1.0, tk.END)
             self.teams_text.insert(tk.END, str(e))
@@ -80,6 +83,10 @@ class TeamBuilderUI:
         self.toggle_scores_button.config(text="Hide Scores" if self.show_scores else "Show Scores")
         self.update_display()
 
+    def save_teams(self):
+        file_path = 'teams.txt'
+        print_teams_to_file(self.teams, file_path)
+        tk.messagebox.showinfo("Success", f"Teams saved to {file_path}")
 
 if __name__ == '__main__':
     # Example usage
