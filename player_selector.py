@@ -4,9 +4,9 @@ import json
 import os
 
 # Paths
-input_file_path = '/Users/ihacmon/Library/CloudStorage/GoogleDrive-ihacmon@paloaltonetworks.com/My Drive/Itay/Itay/TeamBuilder/soccer_players.json'
-output_file_path = '/Users/ihacmon/Library/CloudStorage/GoogleDrive-ihacmon@paloaltonetworks.com/My Drive/Itay/Itay/TeamBuilder/current_soccer_players.json'
-last_selected_file_path = '/Users/ihacmon/Library/CloudStorage/GoogleDrive-ihacmon@paloaltonetworks.com/My Drive/Itay/Itay/TeamBuilder/last_selected_players.json'
+input_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Docs/Projects/teamBuilder/soccer_players.json'
+output_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Docs/Projects/teamBuilder/current_soccer_players.json'
+last_selected_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Docs/Projects/teamBuilder/last_selected_players.json'
 
 POSITION_ORDER = ["keeper", "defender", "attacker", "striker"]
 

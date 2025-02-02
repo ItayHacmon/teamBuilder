@@ -3,7 +3,7 @@ from tkinter import messagebox, ttk
 import json
 import os
 
-input_file_path = '/Users/ihacmon/Library/CloudStorage/GoogleDrive-ihacmon@paloaltonetworks.com/My Drive/Itay/Itay/TeamBuilder/soccer_players.json'
+input_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Docs/Projects/teamBuilder/soccer_players.json'
 
 
 class AddPlayerApp:

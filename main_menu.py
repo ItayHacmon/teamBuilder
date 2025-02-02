@@ -5,8 +5,8 @@ from modify_player import ModifyPlayerApp
 from ui_logic import TeamBuilderUI
 import json
 
-input_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Itay/TeamBuilder/soccer_players.json'
-output_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Itay/TeamBuilder/current_soccer_players.json'
+input_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Docs/Projects/teamBuilder/soccer_players.json'
+output_file_path = '/Users/ihacmon/Google Drive/My Drive/Itay/Docs/Projects/teamBuilder/current_soccer_players.json'
 
 selected_players = []
 
